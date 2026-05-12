@@ -9,7 +9,7 @@ This project analyzes COPDGene spirometry and demographic data using R to invest
 - dplyr
 - Statistical Modeling
 - Data Visualization
-- Healthcare Analytics
+- Data Analytics
 
 ## Methods
 - Data cleaning and preprocessing
